@@ -1,3 +1,6 @@
+# 演示网站
+https://zhouyi.aiidea.xyz
+
 # xuanxue
 MkDocs 是一个静态站点生成器，它使用简单的 Markdown 文件来创建漂亮的文档网站。以下是 MkDocs 的基本用法：
 
