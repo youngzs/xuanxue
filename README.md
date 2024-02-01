@@ -1,6 +1,6 @@
 
 # 演示网站
-https://zhouyi.aiidea.xyz
+https://zhouyi.aiidea.shop
 
 # 奇门遁甲学习笔记
 ## 乾卦 : 天、首、头部、父亲;
